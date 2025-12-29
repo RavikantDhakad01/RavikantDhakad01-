@@ -50,12 +50,11 @@
 📂 **Repository:** [playdix-music-player](https://github.com/RavikantDhakad01/playdix-music-player)
 
 ---
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavikantDhakad&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=RavikantDhakad01&show_icons=true&theme=tokyonight" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact&theme=tokyonight" />
 ---
 
 ## 🤝 Connect With Me
