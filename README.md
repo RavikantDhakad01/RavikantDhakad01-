@@ -40,6 +40,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
 ## 🚀 Projects
 
 ### 🎵 Playdix — Music Player Web App
@@ -50,17 +51,22 @@
 📂 **Repository:** [playdix-music-player](https://github.com/RavikantDhakad01/playdix-music-player)
 
 ---
+
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=RavikantDhakad01&show_icons=true&theme=tokyonight" />
 
+<br />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact&theme=tokyonight" />
+
 ---
 
 ## 🤝 Connect with Me
 
 <p>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ravikant-dhakad">Ravikant Dhakad</a></p>
 <p>📧 <b>Email:</b> <a href="mailto:ravikantdhakar456@gmail.com">ravikantdhakar456@gmail.com</a></p>
+
 ---
 
 ⭐ If you find my work interesting, feel free to explore and star my repositories!
