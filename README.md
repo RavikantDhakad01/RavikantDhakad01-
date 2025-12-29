@@ -49,7 +49,7 @@
 
 ## 🚀 Projects
 
-### 🎵 Playdix — Music Player Web App
+### 🎵 playdix — Music Player Web App
 - Built using **HTML, CSS, and JavaScript**
 - Clean, responsive UI with core music controls (play, pause, next, previous, seekbar)
 - Focused on delivering a smooth and distraction-free music listening experience
