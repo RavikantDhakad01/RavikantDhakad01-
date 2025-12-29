@@ -4,9 +4,13 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<br clear="all" />
+<p align="center">
+  <img
+    alt="Coding"
+    width="380"
+    src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"
+  />
+</p>
 
 ---
 
@@ -57,18 +61,15 @@
 
 ## 📊 GitHub Stats
 
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RavikantDhakad01&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavikantDhakad01&show_icons=true&theme=tokyonight)
 
-<br />
-
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact&theme=tokyonight" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavikantDhakad01&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect with Me
-
-<p>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ravikant-dhakad">Ravikant Dhakad</a></p>
-<p>📧 <b>Email:</b> <a href="mailto:ravikantdhakar456@gmail.com">ravikantdhakar456@gmail.com</a></p>
+- 💼 **LinkedIn:** [Ravikant Dhakad](https://www.linkedin.com/in/ravikant-dhakad)
+- 📧 **Email:** [ravikantdhakar456@gmail.com](mailto:ravikantdhakar456@gmail.com)
 
 ---
 
