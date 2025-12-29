@@ -59,9 +59,8 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 🌐 Portfolio: https://your-portfolio-link.com
-- 📧 Email: yourmail@gmail.com
+- 💼 **LinkedIn:** [ravikant-dhakad](https://www.linkedin.com/in/ravikant-dhakad)
+- 📧 **Email:** [ravikantdhakar456@gmail.com](mailto:ravikantdhakar456@gmail.com)
 
 ---
 
