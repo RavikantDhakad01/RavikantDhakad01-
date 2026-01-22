@@ -50,12 +50,18 @@
 ## 🚀 Projects
 
 ### 🎵 playdix — Music Player Web App
-- Built using **HTML, CSS, and JavaScript**
-- Clean, responsive UI with core music controls (play, pause, next, previous, seekbar)
-- Focused on delivering a smooth and distraction-free music listening experience
 
-🌐 **Live Demo:** [playdix.netlify.app](https://playdix.netlify.app/)  
-📂 **Repository:** [playdix-music-player](https://github.com/RavikantDhakad01/playdix-music-player)
+playdix is a responsive web music player built with vanilla JavaScript, featuring audio playback controls (play/pause, next, previous), a real-time seekbar, and a clean Spotify-like user interface.
+
+🌐 **Live Demo:** https://playdix.netlify.app
+
+
+### ✍️ postiqo — Share Your Thoughts
+
+Postiqo is a full-stack blogging web application built using React and Appwrite.  
+It supports user authentication, blog creation, image uploads, and post management with a clean UI.
+
+🌐 **Live Demo:** https://postiqo.vercel.app
 
 💡 Actively building new frontend projects to strengthen real-world skills.
 
